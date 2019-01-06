@@ -1,10 +1,9 @@
 ---
-layout: default
-title: Home
-nav_order: 1
-permalink: /
+title: Test
+has_children: true
+nav_order: 2
 ---
 
-# Know thyself
+# Know thyself.
 
 I'm hosted with GitHub Pages.
