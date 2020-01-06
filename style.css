@@ -3,3 +3,11 @@ img.photograph {
 	padding-bottom: 10px;
 	width: 900px;
 }
+
+img.qr {
+	width: 150pt;
+	margin-top: 50pt;
+  	margin-bottom: 20pt;
+  	margin-right: 30pt;
+  	margin-left: 60pt;
+}
